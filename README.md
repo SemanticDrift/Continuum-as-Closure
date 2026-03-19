@@ -15,7 +15,9 @@ This paper began with a book.
 
 At 10 years old, reading A Thousand and One Nights, the title stopped everything. Not the stories. The title.
 
-1001.
+```
+1001
+```
 
 Scholars and translators had long concluded that it means infinite tales. They were right about the conclusion. But they never explained the mechanism. They felt it poetically without decomposing it mathematically.
 
