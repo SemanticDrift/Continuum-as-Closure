@@ -1,5 +1,5 @@
 # Continuum as Closure
-### A Structural Reframing of the Continuum Hypothesis and Generalized Continuum Hypothesis
+### Why Gradients Vanish and How Structural Closure Fixes It
 ### Series: Mathematical Foundations for Universal Systems
 **Author:** Carolina Johnson (CJ)
 **Date:** July 2025
